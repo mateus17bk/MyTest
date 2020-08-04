@@ -1,5 +1,7 @@
 <?php
 
-echo"sadasdas";
+require 'app/view/home.html';
+
+
 
 ?>
